@@ -22,7 +22,7 @@ It provides insights such as:
 
 ## 📸 Dashboard Preview
 
-![page_1_dashboard](https://github.com/user-attachments/assets/160cd0d3-f4b4-4d6b-9d78-8c8cbda204df)
+![page_2](https://github.com/user-attachments/assets/dd314eb5-35f7-44b1-b281-b257198ecbf1)
 
 ![page_2_dashboard](https://github.com/user-attachments/assets/34ea0cf2-43b6-4488-8cd8-e77887abe42b)
 
