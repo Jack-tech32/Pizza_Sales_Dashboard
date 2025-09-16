@@ -22,14 +22,9 @@ It provides insights such as:
 
 ## 📸 Dashboard Preview
 
-         
-          
-          ![page_1_dashboard](https://github.com/user-attachments/assets/4ed120ae-24f3-4623-a812-c9ad82c5649f)
+![page_1_dashboard](https://github.com/user-attachments/assets/160cd0d3-f4b4-4d6b-9d78-8c8cbda204df)
 
-
-          ![page_2_dashboard](https://github.com/user-attachments/assets/b2e002be-baa4-45a0-a018-47b89c91be8a)
-
-
+![page_2_dashboard](https://github.com/user-attachments/assets/34ea0cf2-43b6-4488-8cd8-e77887abe42b)
 
 
 ## 🛠 Tools Used
